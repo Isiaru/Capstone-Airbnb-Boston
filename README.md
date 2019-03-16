@@ -1,8 +1,8 @@
 # Capstone-Airbnb-Boston
 
-## Analysis
+## Scope
 
-The project is part of the Udacity Data Science Nanodegree.The goal of the analysis is to answer a set of business questions based on the dataset of Aribnb Boston:
+The project is part of the Udacity Data Science Nanodegree. The analysis aims at answering a set of business questions based on the dataset of Aribnb Boston:
 * Which type of location can you find in each Boston area?
 * How are the prices depending on the place and type of location?
 * How fluctuating are the prices?
@@ -13,13 +13,11 @@ The project is part of the Udacity Data Science Nanodegree.The goal of the analy
 
 Data can be downloaded on kaggle: https://www.kaggle.com/airbnb/boston
 
-## The analysis consists in two parts
+## The analysis
 
-Data Analysis
-Analysis 
+1. General data analysis to understand the market in Boston 
 
-Prediction
-To provide an analysis of the parameters' importance, a model has been trained to predict the prices using GGBoostRegressor.
+2. Development of a model to predict location prices. The goal is to provide an analysis of the parameters' importance. The model used is XGBoostRegressor.
 
 
 ## Instructions

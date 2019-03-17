@@ -21,7 +21,8 @@ Data can be downloaded on kaggle: https://www.kaggle.com/airbnb/boston
 
 
 ## Instructions
+Use python3 with the anaconda, numpy, matplotlib and sklearn packages.
 
-Install xgboost
-Run: pip install xgboost
+
+In addition please install xgboost by running in your environment: pip install xgboost
 

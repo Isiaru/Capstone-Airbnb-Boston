@@ -9,6 +9,8 @@ The project is part of the Udacity Data Science Nanodegree. The analysis aims at
 * How dominated is the market?
 * What are the most important parameters for predicting location prices?
 
+The discussion can be found in Medium: https://medium.com/@julia.suc/how-much-do-you-pay-for-an-airbnb-in-boston-acd9ebc42dc0
+
 ## Data
 
 Data can be downloaded on kaggle: https://www.kaggle.com/airbnb/boston
